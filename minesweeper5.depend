@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1482624403 source:d:\project\minesweeper5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	"draw.h"
+	"GetInfo.h"
+	"initialization.h"
+
+1482624423 d:\project\minesweeper5\draw.h
+
+1482624425 d:\project\minesweeper5\getinfo.h
+
+1482624428 d:\project\minesweeper5\initialization.h
+
+1482678216 source:c:\users\mohamed\desktop\minesweeper5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	"draw.h"
+	"GetInfo.h"
+	"initialization.h"
+
+1482678459 c:\users\mohamed\desktop\minesweeper5\draw.h
+
+1482677699 c:\users\mohamed\desktop\minesweeper5\getinfo.h
+
+1482677703 c:\users\mohamed\desktop\minesweeper5\initialization.h
+
+1482951078 source:c:\users\mustafa\desktop\minesweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	"draw.h"
+	"GetInfo.h"
+	"initialization.h"
+
+1482947144 c:\users\mustafa\desktop\minesweeper\draw.h
+
+1482947146 c:\users\mustafa\desktop\minesweeper\getinfo.h
+
+1482951871 c:\users\mustafa\desktop\minesweeper\initialization.h
+
